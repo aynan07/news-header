@@ -1,0 +1,27 @@
+@media only screen and (max-width: 1000px) and (min-width: 601px){
+    
+    
+    /* Header Part Start */
+
+.header-c {width: 80%;}
+
+
+/* Header Part End */
+
+
+/* Inside Header Container */
+
+.logo img {height: 50px;width: 200px;}
+/* Inside Header Container */
+
+/* nav */
+.nav-c {width: 100%;}
+
+.n2 {width: 80%;}
+
+/* Header Part End */
+
+
+    
+    
+}

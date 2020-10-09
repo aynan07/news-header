@@ -1,0 +1,66 @@
+body {margin: 0;padding: 0;font-family: 'SolaimanLipi', sans-serif;}
+
+
+
+/* Header Part Start */
+.header {width: 100%;height: 125px;background-color: #fff;display: block;overflow: hidden;}
+
+.header-c {width: 70%;padding:12px;margin: auto;overflow: hidden;}
+
+
+/* Header Part End */
+
+
+/* Inside Header Container */
+
+.logo {float: left;width: 50%;overflow:hidden;}
+.logo img {height: 60px;width: 250px;}
+
+
+.social-icon {width: 50%;float: left;}
+.social-icon-c {margin-top: 12px;float: right;}
+.social-icon .fa {font-size: 25px;color: darkblue;background-color: #eae8e8;padding: 8px;border-radius: 50%;height: 25px;width: 25px;text-align: center;}
+.date {display: block;width: 100%;text-align: center;margin-top: -12px;}
+/* Inside Header Container */
+
+/* nav */
+.nav {display: block; height: auto;width: 100%;background-color: #2D5EA3;top:120px;overflow: hidden;}
+.nav-c {width: 90%;margin: auto;}
+.n1 {width: 10%;text-align: right;float: left;}
+.n1 i{font-size: 30px;margin-top: 8px;color: #fff;}
+
+.n2 {width: 60%;float: left;}
+.n2 ul {list-style: none;margin-top: 9px;}
+.n2 ul li {display: inline-block;padding:0 10px}
+.n2 ul li a:hover {background-color: #ddd;color: black;padding: 5px}
+.n2 ul li a {color: #fff;text-decoration: none;font-size: 20px;}
+
+.n3 {width: 10%;float: left;}
+.n3 i{font-size: 25px;margin-top:10px;color: #fff;}
+.n3 span {font-size:25px;color:aliceblue;margin-left: 5px;}
+
+
+
+
+/* Header Part End */
+
+.news-ticker {display: block;width: 90%;height: 50px;margin: auto;margin-top: 10px}
+.news-ticker marquee {float: left;width: 85%;background-color: #eae8e8;height: 25px;padding-top: 5px}
+.news-ticker marquee a {}
+
+.t-title {width: 80px;;overflow: hidden;float: left;border-right: 5px solid pink;}
+.t-title a {height: 25px;width: 80px;overflow: hidden;display: block;background-color: #2D5EA3;font-weight: bold;padding-left: 5px;color: white;text-align: center;padding-top: 5px;}
+
+
+/* Footer */
+.footer {width: 100%;background-color: #EAE8E8;overflow: hidden;}
+.footer-c {width:80%;margin: auto;padding-top: 20px }
+
+.footer .logo {width: 33%;float: left;}
+.footer .address {width: 33%;float: left;}
+.footer .contact {width: 33%;float: left;}
+.footer .contact ul{list-style: none;}
+ .footer .contact ul li a{font-size: 22px;}
+.footer .contact ul li i{margin-right: 10px;font-size: 22px;width: 30px;}
+.footer .social-icon {width: 100%;float: none;text-align: center}
+.footer .social-icon-c {float: none;margin: auto;margin-bottom: 20px;width: 80%;}
